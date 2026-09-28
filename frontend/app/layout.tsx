@@ -1,0 +1,1 @@
+import'./globals.css';export const metadata={title:'Archive Lantern',description:'A consensus museum label workshop.'};export default function L({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}

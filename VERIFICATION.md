@@ -1,0 +1,3 @@
+# Verification
+
+GenVM AST lint passed, two surface tests passed, TypeScript passed, static export passed, and content scans passed. StudioNet finalized `0xe3a37df4c011afc813757d879d037c0420e3968dfe87a08d3c91cfed649a5493` with `MAJORITY_AGREE` and leader execution `SUCCESS`, creating `0xF02b12457EC0AEC3FBB84Dd03Eab6bdA2867969e`. The reviewed contract source SHA-256 is `63f7eaa03759489904fcc8c7d559136d15cdcb2e7f8f899a0e5fb1685f494809`, and the matching first repository commit is `f1015cf1e912d82c7fa63a8586e8358e5f628571`. Cloudflare canonical production returned HTTP 200 with title `Archive Lantern`. No label is claimed accepted without a finalized lifecycle transaction.
